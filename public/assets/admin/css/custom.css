@@ -1,0 +1,27 @@
+.card-checkbox .c-checkbox {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: #d1d3e2a6;
+    padding: 10px;
+    border-radius: 50%;
+    color: #e3e6f0;
+}
+.card-checkbox.checked .c-checkbox{
+    background: #00ced196;
+    color: #fffaf0;
+}
+.card-checkbox.checked .c-checkbox .fa{
+    font-weight: bold;
+    font-size: 18px;
+}
+.card-checkbox .c-checkbox .fa{
+    font-size: 16px;
+}
+.process-title .label {
+    padding: 7px;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #a3bc50;
+}
